@@ -22,7 +22,7 @@ To get started with the bot, follow these steps:
 
 Download Node.js and npm here: [Download Link](https://t.me/KeoAirDropFreeNe/257/1462).
 
--> Double click on setup.bat or setup.sh if you want to run automatically, remember to fill all the necessary data.
+-> Double click on `setup.bat` or `setup.sh` if you want to run automatically, remember to fill all the necessary data.
 
 1. **Install Dependencies and Modules:**
 
@@ -44,7 +44,8 @@ Download Node.js and npm here: [Download Link](https://t.me/KeoAirDropFreeNe/257
   "countdown": 300,
   "country_time": "en-US",
   "delayEachAccount": [1, 81],
-  "referralCode": "6wPG3o5QRA_1_1"
+  "referralCode": "6wPG3o5QRA_1_1",
+  "doTasks": true
 }
 
 ```
@@ -58,6 +59,9 @@ query_id.../user...
 ```
 
 ### 3. `wallets.txt` 💼 - Cannot update yet.
+
+- Wallets generator: [Link](https://github.com/MeoMunDep/Automatic-Ultimate-Create-Wallets-for-Airdrop)
+
 
 ```txt - wallet address
 abc...xyz
@@ -77,6 +81,6 @@ socks5://user:password@host:port
 💡 Usage:
 
 > You need to `cd` to the file after extract it
-> To run the bot, use the following command: `cd "panda scratch-main/panda scratch"; node 1`
+> To run the bot, use the following command: `cd "panda scratch-main/panda scratch"; node meomundep`
 
 🎇Enjoy!

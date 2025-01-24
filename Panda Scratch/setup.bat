@@ -83,7 +83,7 @@ if exist "..\node_modules" (
 ) else (
     echo Using node_modules from current directory
 )
-cd "panda scratch" && node bot
+node meomundep
 pause
 goto MENU
 
